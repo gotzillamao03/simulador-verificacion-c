@@ -1,4 +1,4 @@
-# Sistema de Verificación Vehicular en C
+Sistema de Verificación Vehicular en C
 
 Programa en C que simula un sistema de verificación vehicular utilizando colas dinámicas.
 
